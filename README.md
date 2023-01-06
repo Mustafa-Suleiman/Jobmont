@@ -6,7 +6,7 @@
 </p>
 
 # Description
-Jobmont is a job application tracker where, once signed up and logged in, users can track all of their applications in one place by submitting the appropriate information in our forms. Just imagine not having to stress yourself over remembering the details of each application!
+Jobmont is a job application tracker where once signed up and logged in, users can track all of their applications in one place by submitting the appropriate information in forms. Just imagine not having to stress yourself over remembering the details of each application!
 
 # Features
 - Registration
