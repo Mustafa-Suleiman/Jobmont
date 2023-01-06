@@ -20,7 +20,7 @@ Jobmont is a job application tracker where, once signed up and logged in, users 
 
  <div align='center'>
   <img src="https://user-images.githubusercontent.com/109823798/211017597-a4018b49-8ca5-49df-9416-778365db2eac.png"> 
-  <img src="https://user-images.githubusercontent.com/109823798/211017870-756f2eb0-ffec-4c68-81a2-de891b04280e.gif">
+  <img src="https://user-images.githubusercontent.com/109823798/211026425-501e07e6-1f40-401f-8177-0110b12a7d2e.gif">
  </div>
  
 # Tech Used
